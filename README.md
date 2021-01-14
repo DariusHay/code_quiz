@@ -5,7 +5,7 @@ In this project I created a coding quiz in which the user has 75 second to answe
 I used HTML, JavaScript, and CSS to create this application.
 
 # URL 
-
+https://dariushay.github.io/code_quiz/
 # Screenshots
 ![alt text](pics/html1.png)
 ![alt text](pics/html2.png)
