@@ -1,0 +1,79 @@
+.container {
+    box-sizing: border-box;
+}
+.col-md-6 {
+    float: left;
+}
+#timer {
+    margin-right: 0%;
+    float: right;
+}
+#time {
+    margin-right: 3%;
+    float: right;
+    
+}
+header {
+    background-color: rgb(225, 255, 0);
+    margin-top: 3%;
+   
+}
+main {
+    padding: 10%;
+}
+h2 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+#start {
+    margin: 0 auto;
+    display: block;
+    margin-top: 5%;
+}
+
+ol {
+    list-style-type: none;
+    display: none;
+    margin: 0%;
+}
+li {
+    margin: 2%;
+}
+.dashed {
+    display: none;
+}
+#wrong {
+    opacity: 50%;
+}
+.form-inline {
+    display: none;
+}
+#initials {
+    text-align: left;
+    clear: both;
+}
+#submit {
+    display: none;
+}
+#newScore {
+    text-align: left;
+    margin-left: 2%;
+}
+#clearHighScore {
+    display: none;
+}
+#restart {
+    display: none;
+   
+}
+#highscoreHeader {
+    text-align: left;
+    
+}
+#highscoreGoBack {
+    display: block; 
+    margin: 0 auto; 
+    margin-top: 5%"
+}
