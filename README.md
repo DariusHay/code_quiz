@@ -7,8 +7,7 @@ I used HTML, JavaScript, and CSS to create this application.
 # URL 
 https://dariushay.github.io/code_quiz/
 # Screenshots
-![alt text](pics/html1.png)
-![alt text](pics/html2.png)
-![alt text](pics/css.png)
-![alt text](pics/javascript.png)
-![alt text](pics/javascript-part2.png)
+![start quiz](pics/start-quiz.png)
+![mid quiz](pics/mid-quiz.png)
+![end quiz](pics/end-quiz.png)
+![highscore page](pics/highscore.png)

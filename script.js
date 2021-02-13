@@ -195,7 +195,7 @@ function startGame() {
            refresh.addEventListener("click", function() {
             window.location.reload();
            });
-        //    This checks if "dada" has any info in localStorage and puts it in an object. Or if Data is empty
+        //    This checks if "data" has any info in localStorage and puts it in an object. Or if Data is empty
         // it creates an empty array.
            var userData = JSON.parse(localStorage.getItem("data")) || [];
         //    this is an object that will be pushed into the value of the localstorage key "data."
